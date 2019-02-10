@@ -1,0 +1,12 @@
+
+
+Atenção,
+
+Para o funcionamento do programa é preciso que a rxtxSerial.dll esteja 
+instalada na pasta bin da JRE do sistema, certifique-se de instalar a 
+versão para arquiteturas x64. 
+
+Outro detalhe importante é que a o .jar da RXTXcomm do projeto e a dll 
+devem ser de versões compativeis entre si. 
+
+Vou deixar esses arquivo compactados junto ao projeto: rxtx-2.1-7-bins-r2.rar
